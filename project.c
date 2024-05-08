@@ -1,5 +1,3 @@
-//PDS project
-
 
 #include <stdio.h>
 #include <stdlib.h>
